@@ -15,17 +15,17 @@ The following upscalers are recommended:
 ## Sets
 
 ### 16x set #1
-<img loading="lazy" src="16x_ui_icons/3d-gizmo.png" alt="3D gizmo" />
-<img loading="lazy" src="16x_ui_icons/ball-info-teal.png" alt="Teal info ball" />
-<img loading="lazy" src="16x_ui_icons/ball-warn-orange.png" alt="Orange warn ball" />
-<img loading="lazy" src="16x_ui_icons/floppy-blue.png" alt="Blue floppy disk" />
-<img loading="lazy" src="16x_ui_icons/floppy-copper.png" alt="Copper floppy disk" />
-<img loading="lazy" src="16x_ui_icons/mesh.png" alt="Mesh" />
-<img loading="lazy" src="16x_ui_icons/nodes-unshaded.png" alt="Nodes" />
-<img loading="lazy" src="16x_ui_icons/pawn.png" alt="Pawn" />
-<img loading="lazy" src="16x_ui_icons/screen-full.png" alt="Full screen icon" />
-<img loading="lazy" src="16x_ui_icons/texture.png" alt="Texture" />
-<img loading="lazy" src="16x_ui_icons/wrench.png" alt="Wrench" />
+![3D gizmo](16x_ui_icons/3d-gizmo.png)
+![Teal info ball](16x_ui_icons/ball-info-teal.png)
+![Orange warn ball](16x_ui_icons/ball-warn-orange.png)
+![Blue floppy disk](16x_ui_icons/floppy-blue.png)
+![Copper floppy disk](16x_ui_icons/floppy-copper.png)
+![Mesh](16x_ui_icons/mesh.png)
+![Nodes](16x_ui_icons/nodes-unshaded.png)
+![Pawn](16x_ui_icons/pawn.png)
+![Full screen icon](16x_ui_icons/screen-full.png)
+![Texture](16x_ui_icons/texture.png)
+![Wrench](16x_ui_icons/wrench.png)
 
 
 ## License
